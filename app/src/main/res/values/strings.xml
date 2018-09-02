@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">DoleOut</string>
+    <string name="backgrouds">background</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone_Number</string>
+    <string name="etUsername">Username</string>
+    <string name="etPassword">Password</string>
+    <string name="tvRegisterHere">RegisterHere</string>
+    <string name="btAge">Age</string>
+    <string name="tvRegister">Register</string>
+    <string name="bLogin">Login</string>
+
+
+</resources>
